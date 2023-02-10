@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyanka S
-- 👀 I’m interested in Machine learning and IT  
+- 👀 I’m interested in Fron end developement and problem solving 
 - 🌱 I’m currently learning Biomedical Engineering
 - 📫 How to reach me 
 - linkedin-https://www.linkedin.com/in/priyanka-s-5437ba201/
