@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Biomedical Engineering
 - 📫 How to reach me 
 - linkedin-https://www.linkedin.com/in/priyanka-s-5437ba201/
+- Portfolio-https://priyankagithubs.github.io/PRIYANKA-PORTFOLIO/
 
 
 
