@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyanka S
-- 👀 I’m interested in Frontend developement and problem solving 
+- 👀 I’m interested in Web developement and problem solving 
 - 🌱 I’m currently learning Biomedical Engineering
 - 📫 How to reach me 
 - linkedin-https://www.linkedin.com/in/priyanka-s-5437ba201/
