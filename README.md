@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanka S
-- 👀 I’m interested in Web developement and problem solving 
-- 🌱 I’m currently learning Biomedical Engineering
+- 👀 I’m interested in MERN STACK developement and problem solving 
+- 🌱 I’m a Biomedical Engineer
 - 📫 How to reach me 
 - linkedin-https://www.linkedin.com/in/priyanka-s-5437ba201/
 - Portfolio-https://priyankagithubs.github.io/PRIYANKA-PORTFOLIO/
