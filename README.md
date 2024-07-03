@@ -88,11 +88,9 @@ Welcome to my GitHub profile! I am a **Biomedical Engineer** with a strong passi
 - [To-Do-list](https://github.com/PriyankagithubS/To-Do-list) ![Updated](https://img.shields.io/badge/Updated-on%20Feb%2028,%202023-lightgrey)
 - [Non-invasive-glucometer](https://github.com/PriyankagithubS/NON-INVASIVE-GLUCOMETER) ![Updated](https://img.shields.io/badge/Updated-on%20Feb%2023,%202023-lightgrey)
 - [E-commerce-website-Frontend](https://github.com/PriyankagithubS/E-commerce-website-Frontend-) ![Updated](https://img.shields.io/badge/Updated-on%20Feb%2014,%202023-lightgrey)
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ---
 
 Happy Coding! 🚀
+### GitHub Stats
+
+![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyankagithubS&show_icons=true&theme=radical)
