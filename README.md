@@ -10,6 +10,12 @@ Welcome to my GitHub profile! I am a Biomedical Engineer with a strong passion f
 ## 🌱 About Me
 - **Profession**: Biomedical Engineer
 - **Specialization**: Full Stack Development and Problem Solving
+- 
+## 💻 Known Languages and Technologies
+- **Languages**: C, JavaScript, SQL
+- **Concepts**: OOP (Object-Oriented Programming)
+- **Frontend**: HTML, CSS, React.js, Bootstrap
+- **Tools**: GitHub
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Priyanka S](https://www.linkedin.com/in/priyanka-s-5437ba201/)
