@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am a Biomedical Engineer with a strong passion f
 
 ### Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Priyanka S](https://www.linkedin.com/in/priyanka-s-5437ba201/)
