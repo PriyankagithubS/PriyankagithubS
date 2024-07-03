@@ -10,7 +10,13 @@ Welcome to my GitHub profile! I am a **Biomedical Engineer** with a strong passi
 ## 🌱 About Me
 - **Profession**: Biomedical Engineer
 - **Specialization**: Full Stack Development and Problem Solving
-- 
+  
+ ### Languages 🌐
+- English 🇺🇸 (Proficient)
+- Tamil 🇮🇳 (Native)
+- German 🇩🇪 (Intermediate)
+- Hindi 🇮🇳 (Beginner)
+
 ## 💻 Known Languages and Technologies
 
 ### Programming Languages:
@@ -91,6 +97,4 @@ Welcome to my GitHub profile! I am a **Biomedical Engineer** with a strong passi
 ---
 
 Happy Coding! 🚀
-### GitHub Stats
 
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyankagithubS&show_icons=true&theme=radical)
