@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a Biomedical Engineer with a strong passion f
 - **Profession**: Biomedical Engineer
 - **Specialization**: Full Stack Development and Problem Solving
 - 
-## 🌟 Known Languages and Technologies
+## 💻 Known Languages and Technologies
 
 ### Programming Languages:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
