@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Priyanka S
+# 👋 Hi, I'm Priyanka Shanmuga Sundaram
 
 Welcome to my GitHub profile! I am a **Biomedical Engineer** with a strong passion for **MERN stack development and problem-solving**. Here, you'll find a variety of projects showcasing my skills and interests.
 
