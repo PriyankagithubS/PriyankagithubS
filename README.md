@@ -20,10 +20,7 @@ Welcome to my GitHub profile! I am a **Biomedical Engineer** with a strong passi
 ## 💻 Known Languages and Technologies
 
 ### Programming Languages:
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) 
 ### Technologies and Concepts:
 ![OOP](https://img.shields.io/badge/-OOP-2C2A5E?style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -95,8 +92,16 @@ Welcome to my GitHub profile! I am a **Biomedical Engineer** with a strong passi
 - [Priyanka-portfolio](https://github.com/PriyankagithubS/PRIYANKA-PORTFOLIO) 
 - [To-Do-list](https://github.com/PriyankagithubS/To-Do-list) 
 - [Non-invasive-glucometer](https://github.com/PriyankagithubS/NON-INVASIVE-GLUCOMETER) 
-- [E-commerce-website-Frontend](https://github.com/PriyankagithubS/E-commerce-website-Frontend-) 
+- [E-commerce-website-Frontend](https://github.com/PriyankagithubS/E-commerce-website-Frontend-)
+
+  
+   ![Priyanka's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankagithubS&layout=compact&theme=cobalt)
+
 ---
+ 
+
+
+
 
 Happy Coding! 🚀
 
