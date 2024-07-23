@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a **Biomedical Engineer** with a strong passi
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Priyanka S](https://www.linkedin.com/in/priyanka-s-5437ba201/)
-- **Portfolio**: [Priyanka's Portfolio]([https://priyankagithubs.github.io/PRIYANKA-PORTFOLIO/](https://priyankaportfolioreact.netlify.app/))
+- **Portfolio**: [Priyanka's Portfolio](https://priyankaportfolioreact.netlify.app/)
 
 ## 📌 Pinned Projects
 
