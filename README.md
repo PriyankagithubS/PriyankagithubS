@@ -39,25 +39,7 @@ Welcome to my GitHub profile! I am a **Biomedical Engineer** with a strong passi
 - **Portfolio**: (https://priyankaportfolioreact.netlify.app/)
 - **Email ID**: (priyankashanmugasundaramr@gmail.com)
 
-## 📌 Pinned Projects
 
-### [Artworks](https://github.com/PriyankagithubS/artworks) 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-
-### [Math Calculator](https://github.com/PriyankagithubS/mathcalculator)
-![HTML](https://img.shields.io/badge/Language-HTML-orange)
-
-### [Shopping Cart](https://github.com/PriyankagithubS/shoping-cart)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-
-### [To-Do React](https://github.com/PriyankagithubS/To-Do-react)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-
-### [To-Do List](https://github.com/PriyankagithubS/todolist)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
-
-### [Problem Solving Daily](https://github.com/PriyankagithubS/Problem-solving-daily)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 
 
 
