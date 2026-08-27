@@ -189,25 +189,7 @@ I contributed primarily to the **frontend development of web and mobile applicat
 
 ---
 
-# 🚀 Featured Projects
 
-## 🩺 Non-Invasive Glucometer
-
-A biomedical engineering project developed as part of **Smart India Hackathon 2022**.
-
-**Focus:**
-Healthcare technology • Problem solving • Engineering
-
----
-
-## 🍔 Food Delivery Application
-
-A full-stack application designed around a food ordering and delivery workflow.
-
-**Focus:**
-React • JavaScript • APIs • Database • Full Stack Development
-
----
 
 # 🧠 Currently Learning
 
@@ -294,7 +276,7 @@ I particularly enjoy working on:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://priyankaportfolioreact.netlify.app/">
+<a href="https://priyankaportfolio-snowy.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
